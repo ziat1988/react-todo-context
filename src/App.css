@@ -1,0 +1,11 @@
+.App {
+  margin: 40px 0;
+
+  display: flex;
+  justify-content: space-around;
+}
+
+.containter-fluid {
+  width: 80%;
+  margin: 0 auto;
+}
